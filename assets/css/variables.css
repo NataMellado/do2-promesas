@@ -1,0 +1,22 @@
+:root {
+    /* Colors */
+    --clr-pr: #707070;
+    --clr-white: #fff;
+
+    /* Fonts */
+    --ff-pr: 'Montserrat', sans-serif;
+
+    /* Font Sizes */
+    --fs-h1: 2.3rem;
+    --fs-p: 1rem;
+
+    /* Font Weights */
+    --fw-400: 400;
+    --fw-600: 600;
+    --fw-700: 700;
+
+    @media (max-width: 768px) {
+        /* Font Sizes */
+        --fs-h1: 1.75rem;
+    }
+}
