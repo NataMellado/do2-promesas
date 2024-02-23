@@ -20,7 +20,8 @@ body {
 }
         @media (min-width: 768px) {
             body {
-                padding: 3rem 3rem;
+                padding: 5rem 3rem;
+                gap: 5rem;
             }
         }
 
